@@ -17,8 +17,8 @@ I am Mehedi Hasan from Dhaka, Bangladesh. I am a passionate problem solver and b
 ## ⚡ Technologies
 
 - Languages: C, C++, Python, JavaScript
-- Frameworks: Django, Bootstrap
-- Databases: SQL, MongoDB
+- Frameworks: Django, Django REST framework, Bootstrap
+- Databases: SQL
 - Version Control: GIT, GitHub
 - Development Tools: Visual Studio Code, PyCharm, CodeBlocks, Jupyter notebook
 - Others: Data Structures, Algorithms, OOP, Networking

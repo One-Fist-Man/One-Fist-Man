@@ -3,7 +3,8 @@
 
 <!-- ![short bio](me.png) -->
 
-I am Mehedi Hasan from Dhaka, Bangladesh. I am a passionate problem solver and backend developer. I love to explore and learn about new things.
+I am MD Mehedi Hassan Robin from Dhaka, Bangladesh. I am dedicated and results-oriented software engineer with a passion for problem-solving and a strong background
+in building scalable, user-friendly web applications. Proficient in utilizing modern technologies, including React.js, Next.js, and Django, to create innovative solutions. As a problem solver, appreciates challenges and dedicated to delivering high-quality solutions that align with industry standards and best practices. I love to explore and learn about new things.
 
 ## 👯 Summary
 
@@ -16,10 +17,10 @@ I am Mehedi Hasan from Dhaka, Bangladesh. I am a passionate problem solver and b
 
 ## ⚡ Technologies
 
-- Languages: C, C++, Python, JavaScript
-- Frameworks: Django, Django REST framework, Bootstrap
+- Languages: C, C++, Python, JavaScript,TypeScript
+- Frameworks: React.js, Next.js, React Query, Django, Django REST framework, Ant Design, Tailwind CSS
 - Databases: SQL
-- Version Control: GIT, GitHub
+- Version Control: GIT, GitHub, Bitbucket, Jira
 - Development Tools: Visual Studio Code, PyCharm, CodeBlocks, Jupyter notebook
 - Others: Data Structures, Algorithms, OOP, Networking
 
